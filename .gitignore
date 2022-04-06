@@ -1,2 +1,2 @@
-/.docker/data/*
-/.docker/logs/*
+/.docker/rabbitmq/data/*
+/.docker/rabbitmq/logs/*
