@@ -9,10 +9,10 @@ services:
     ports:
         - 5672:5672
         - 15672:15672
-    volumes:
-        #- ./.docker/rabbitmq/etc/:/etc/rabbitmq/
-        - ./.docker/rabbitmq/data/:/var/lib/rabbitmq/
-        - ./.docker/rabbitmq/logs/:/var/log/rabbitmq/
+    # volumes:
+    #     - ./.docker/rabbitmq/etc/:/etc/rabbitmq/
+    #     - ./.docker/rabbitmq/data/:/var/lib/rabbitmq/
+    #     - ./.docker/rabbitmq/logs/:/var/log/rabbitmq/
     networks:
         - rabbitmq_go_net
 
