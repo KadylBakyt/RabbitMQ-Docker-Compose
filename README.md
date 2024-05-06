@@ -1,4 +1,4 @@
-# Run [RabbitMQ](https://www.rabbitmq.com/)(Free and Open Source) with Docker Compose
+## Run [RabbitMQ](https://www.rabbitmq.com/) with Docker Compose
 
 #### Must have applications on your PC
 
@@ -10,7 +10,7 @@
   
   `# git clone https://github.com/KadylBakyt/RabbitMQ-Docker-Compose.git`
   
-  `# cd MongoDB_MongoExpress_Docker_compose`
+  `# cd RabbitMQ-Docker-Compose`
   
   `# docker compose up`
 
@@ -20,6 +20,9 @@
 
 > Username: `admin`
 
-> Password: `QAZWSXqazwsx123+` 
+> Password: `QAZWSXqazwsx123+`
+
+![Screenshot from 2024-05-06 12-40-05](https://github.com/KadylBakyt/RabbitMQ-Docker-Compose/assets/168426067/d75dd62e-552a-4a8f-abf9-d1bbb21220db)
+
 
 ### Enjoy ...
